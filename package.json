@@ -1,0 +1,17 @@
+{
+  "name": "what-is-ethical-ai",
+  "version": "1.0.0",
+  "description": "What Is Ethical AI? — Ethical Tech CoLab foundational paper",
+  "scripts": {
+    "build": "node scripts/build-site.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "markdown-it": "^14.3.0",
+    "markdown-it-anchor": "^9.2.1",
+    "markdown-it-footnote": "^4.0.0"
+  },
+  "private": true
+}
