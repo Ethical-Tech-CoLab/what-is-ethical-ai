@@ -18,10 +18,10 @@ The answer it defends is **institutional rather than technical**. Ethical AI is 
 
 | | |
 | --- | --- |
-| **4,000 years** | ethics has governed power; AI is read as the latest chapter, not a rupture |
 | **84** | AI ethics guidelines mapped by Jobin, Ienca, and Vayena, converging on five principles but diverging on how to apply them |
-| **34.7%** | Gender Shades error rate misclassifying darker-skinned women, against 0.8% for lighter-skinned men |
 | **118** | countries, overwhelmingly in the Global South, party to none of the major AI governance initiatives the UN surveyed |
+| **15%** | of responses in the IRC's Signpost AI pilot could not be rated safe, the evaluators' basis for concluding the tool is not safe without a human in the loop |
+| **$236B** | in annual illegal profits from forced labour, the ILO estimate that frames the CoLab's Forced Labor Structural Risk Index |
 
 ## Contents
 
