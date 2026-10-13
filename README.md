@@ -51,7 +51,7 @@ docs/pdf/                 the paper as a PDF (drop the designed PDF here)
 scripts/build-site.mjs    REPORT.md -> docs/index.html
 ```
 
-The designed PDF is not committed yet. Drop it in at `docs/pdf/What-Is-Ethical-AI-ETC-Report.pdf` and rerun the build: the download button on both the Pages site and the CoLab site lights up automatically once the file is present.
+The designed PDF is committed at `docs/pdf/What-Is-Ethical-AI-ETC-Report.pdf`. The build adds the download button on the Pages site whenever that file is present; the CoLab site links to the same file. If the PDF is regenerated, drop the new file in the same place and rerun the build.
 
 ## Building the site
 
@@ -62,7 +62,7 @@ npm install
 npm run build      # rewrites docs/index.html
 ```
 
-Edit `REPORT.md`, run the build, and commit both.
+Edit `REPORT.md`, run the build, and commit both. The generated `docs/index.html` is what Pages serves, so a report edit is not live until the build has been rerun and committed.
 
 ## Citing this paper
 
